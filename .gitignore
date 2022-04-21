@@ -2,9 +2,7 @@
 node_modules
 /.pnp
 .pnp.js
-backend
 
-uploads
 # testing
 /coverage
 

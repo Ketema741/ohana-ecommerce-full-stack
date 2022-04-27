@@ -20,7 +20,7 @@
   "homepage": "https://github.com/basir/amazona#readme",
   "devDependencies": {
     "eslint": "^7.9.0",
-    "eslint-plugin-react": "^7.21.2",
+    "eslint-plugin-react": "^7.29.4",
     "nodemon": "^2.0.4"
   },
   "dependencies": {
